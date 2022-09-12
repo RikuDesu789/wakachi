@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@webcomponents/custom-elements": "^1.4.1",
+    "extension-cli": "^1.2.2",
+    "kuromoji": "^0.1.2",
+    "mecab-async": "^0.1.2",
+    "tiny-segmenter": "^0.2.0"
+  }
+}
