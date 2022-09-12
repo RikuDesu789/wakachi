@@ -1,4 +1,4 @@
-### wakachi 
+### WAKACHI (NLP tokenization for Japanese)
 A google chrome extension that performs Natural Language Processing to given user input.
 
 ![Screen Shot 2022-09-11 at 21 13 39](https://user-images.githubusercontent.com/64245507/189753724-4c5c3f6d-57ea-48ff-89e3-f951d6ab28de.png)
