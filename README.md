@@ -11,7 +11,7 @@ WARNING: Please be sure not to include non-Japanese letter for better accuracy.<
 
 The app uses the below technology. Refer to their official documentation for details.
 
-TinySegmenter 0.1 -- Super compact Japanese tokenizer in Javascript
+**TinySegmenter 0.1 -- Super compact Japanese tokenizer in Javascript
 (c) 2008 Taku Kudo <taku@chasen.org>
 TinySegmenter is freely distributable under the terms of a new BSD licence.
- For details, see http://chasen.org/~taku/software/TinySegmenter/LICENCE.txt
+For details, see http://chasen.org/~taku/software/TinySegmenter/LICENCE.txt**
